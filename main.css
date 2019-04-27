@@ -1,0 +1,62 @@
+* {
+  font-family: sans-serif;
+}
+
+.info {
+  width: 800px;
+  background-color: rgb(220, 220, 220);
+  padding: 20px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+
+.vid {
+  align-content: center;
+  width: 600px;
+  background-color: black;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+}
+
+.questions {
+  background-color: rgb(220, 220, 220);
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+body{
+  background-color: rgb(50, 50, 50);
+}
+
+.nav-bar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  background-color: rgb(220, 220, 220);
+  padding: 20px;
+  text-align: center;
+}
+
+.btn a {
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(200, 20, 20);
+  color: black;
+  font-weight: bold;
+}
+
+.btn a:hover {
+  background-color: rgb(20, 20, 200);
+  color: white;
+}
